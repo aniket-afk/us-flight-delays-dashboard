@@ -5,7 +5,7 @@ An interactive **Tableau dashboard** analyzing U.S. domestic flight delays and c
 ---
 
 ## 📊 Dashboard  
-👉 [View on Tableau Public]([https://public.tableau.com/app/profile/aniket.patole/viz/FlightDelayAnalysis_17586928563890/FlightDelayDashboard])  
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/aniket.patole/viz/FlightDelayAnalysis_17586928563890/FlightDelayDashboard)  
 
 ---
 
