@@ -46,16 +46,6 @@ An interactive **Tableau dashboard** analyzing U.S. domestic flight delays and c
 
 ---
 
-## 📁 Repository Structure  
-us-flight-delays-dashboard/
-│── data/ # Raw & cleaned datasets (CSV)
-│── notebooks/ # Python ETL scripts (Jupyter/Pandas)
-│── tableau/ # Tableau workbook (.twbx)
-│── README.md # Project documentation
-
-
----
-
 ## 🛠 Tech Stack
 
 Programming: Python (Pandas, NumPy, Matplotlib), SQL
